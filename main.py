@@ -4,8 +4,14 @@ While True:
 	"3.Третья функция."
 	x = input("1-3: ")
 	if x = 1:
-		print("1")
+		print("Hello, World")
 	if x = 2:
-		print("2")
+		a = int(input("Число 1: ")
+		b = int(input("Число 2: ")
+		print(a+b)
 	if x = 3:
-		print("3")
+		c = input("Число от 1 до 10: ")
+		if c = 3:
+			print("Чивапчичи")
+		else:
+			print("Нет чивапчичей")
